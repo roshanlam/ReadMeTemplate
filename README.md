@@ -15,7 +15,7 @@
   <h3 align="center">Read Me Template</h3>
 
   <p align="center">
-    An Read Me template for your projects!
+    A Read Me template for your projects!
     <br />
     <a href="https://github.com/roshanlam/ReadMeTemplate/"><strong>Explore the docs »</strong></a>
     <br />
