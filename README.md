@@ -30,7 +30,6 @@
   </p>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
